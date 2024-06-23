@@ -2,8 +2,8 @@ import pygame
 import os
 import random          #bugs  while loading new level
 #import time
-FPS = 30
-enemy_shoots = 1
+FPS = 30                    # this was built using a tutorial by tec with tim on youtube
+enemy_shoots = 1            # i edited it in my own way in spots to show my understaning of the code
 colly_w_enemy = 1
 lifes = 1
 pygame.font.init()      # need
